@@ -23,6 +23,7 @@
 #    g. Permissions → Repository permissions:
 #       - Contents: Read and write
 #       - Pull requests: Read and write
+#       - Workflows: Read and write (required if upstream has workflow files)
 #       - Metadata: Read-only (automatically selected)
 #    h. Click "Generate token" and copy it
 #
