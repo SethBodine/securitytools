@@ -6,7 +6,14 @@
 #
 # REQUIRED SETUP:
 # 
-# 1. Create a Fine-grained Personal Access Token (recommended for least privilege):
+# 1. Enable GitHub Actions workflow permissions:
+#    a. Go to your fork → Settings → Actions → General
+#    b. Scroll to "Workflow permissions"
+#    c. Select "Read and write permissions"
+#    d. Check "Allow GitHub Actions to create and approve pull requests"
+#    e. Click "Save"
+#
+# 2. Create a Fine-grained Personal Access Token (required for protected branches):
 #    a. Go to GitHub.com → Your Profile → Settings
 #    b. Developer settings → Personal access tokens → Fine-grained tokens
 #    c. Click "Generate new token"
@@ -19,7 +26,7 @@
 #       - Metadata: Read-only (automatically selected)
 #    h. Click "Generate token" and copy it
 #
-# 2. Add the token to your repository:
+# 3. Add the token to your repository:
 #    a. Go to your fork → Settings → Secrets and variables → Actions
 #    b. Click "New repository secret"
 #    c. Name: PAT_TOKEN
