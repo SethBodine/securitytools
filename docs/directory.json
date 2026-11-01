@@ -3,9 +3,9 @@
         "path": "projects/adversarysim/detectioneng/atomic-red-team",
         "url": "https://github.com/redcanaryco/atomic-red-team.git",
         "description": "Small and highly portable detection tests based on MITRE's ATT&CK.",
-        "watchers": 372,
+        "watchers": 371,
         "forks": 3244,
-        "stars": 12747
+        "stars": 12748
     },
     {
         "path": "projects/adversarysim/platforms/caldera",
@@ -13,7 +13,7 @@
         "description": "Automated Adversary Emulation Platform",
         "watchers": 181,
         "forks": 1407,
-        "stars": 7480
+        "stars": 7481
     },
     {
         "path": "projects/adversarysim/platforms/joystick",
@@ -213,7 +213,7 @@
         "description": ":cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud",
         "watchers": 38,
         "forks": 330,
-        "stars": 2439
+        "stars": 2440
     },
     {
         "path": "projects/cloud/multitools/cloud_enum",
@@ -317,7 +317,7 @@
         "description": "A new bootable USB solution.",
         "watchers": 701,
         "forks": 5028,
-        "stars": 80517
+        "stars": 80518
     },
     {
         "path": "projects/devsec/lab/dockerfiles",
@@ -429,7 +429,7 @@
         "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
         "watchers": 2854,
         "forks": 14738,
-        "stars": 254980
+        "stars": 254987
     },
     {
         "path": "projects/docs/Infosec_Reference",
@@ -588,7 +588,7 @@
         "url": "https://github.com/MISP/MISP.git",
         "description": "MISP (core software) - Open Source Threat Intelligence and Sharing Platform",
         "watchers": 280,
-        "forks": 1658,
+        "forks": 1659,
         "stars": 6633
     },
     {
@@ -709,7 +709,7 @@
         "description": "Low bandwidth DoS tool. Slowloris rewrite in Python.",
         "watchers": 69,
         "forks": 732,
-        "stars": 2843
+        "stars": 2844
     },
     {
         "path": "projects/network/stressing/Raven-Storm",
@@ -997,7 +997,7 @@
         "description": ":scream: A curated list of amazingly awesome OSINT",
         "watchers": 736,
         "forks": 4251,
-        "stars": 30621
+        "stars": 30622
     },
     {
         "path": "projects/recon/docs/OSINT",
@@ -1043,9 +1043,9 @@
         "path": "projects/recon/platforms/spiderfoot",
         "url": "https://github.com/smicallef/spiderfoot.git",
         "description": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-        "watchers": 560,
-        "forks": 3965,
-        "stars": 24199
+        "watchers": 561,
+        "forks": 3966,
+        "stars": 24200
     },
     {
         "path": "projects/recon/platforms/mihari",
@@ -1125,7 +1125,7 @@
         "description": "\ud83e\udd16 The Modern Port Scanner \ud83e\udd16",
         "watchers": 159,
         "forks": 1396,
-        "stars": 20651
+        "stars": 20652
     },
     {
         "path": "projects/scanning/ports/masscan",
@@ -1205,7 +1205,7 @@
         "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
         "watchers": 226,
         "forks": 813,
-        "stars": 38886
+        "stars": 38887
     },
     {
         "path": "projects/scanning/vulns/webservices/w3af",
@@ -1469,7 +1469,7 @@
         "description": "Hunt down social media accounts by username across social networks",
         "watchers": 1467,
         "forks": 11352,
-        "stars": 95361
+        "stars": 95363
     },
     {
         "path": "projects/socials/recon/holehe",
@@ -1556,7 +1556,7 @@
         "url": "https://github.com/dfir-iris/iris-web.git",
         "description": "Collaborative Incident Response platform",
         "watchers": 34,
-        "forks": 335,
+        "forks": 336,
         "stars": 1616
     },
     {
@@ -1693,7 +1693,7 @@
         "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
         "watchers": 1182,
         "forks": 61341,
-        "stars": 209253
+        "stars": 209258
     },
     {
         "path": "projects/scanning/webservices/katana",
@@ -1748,8 +1748,8 @@
         "url": "https://github.com/public-apis/public-apis.git",
         "description": "A collective list of free APIs",
         "watchers": 4760,
-        "forks": 55151,
-        "stars": 493998
+        "forks": 55153,
+        "stars": 494029
     },
     {
         "path": "projects/adversarysim/docs/conti-pentester-guide-leak",
@@ -1765,7 +1765,7 @@
         "description": "A fancy self-hosted monitoring tool",
         "watchers": 315,
         "forks": 8645,
-        "stars": 93138
+        "stars": 93139
     },
     {
         "path": "projects/os/macos/secretive",
@@ -1789,7 +1789,7 @@
         "description": "Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.",
         "watchers": 224,
         "forks": 2571,
-        "stars": 17526
+        "stars": 17527
     },
     {
         "path": "projects/scanning/webservices/colly",
@@ -1948,7 +1948,7 @@
         "url": "https://github.com/cipher387/Dorks-collections-list.git",
         "description": "List of Github repositories and articles with list of dorks for different search engines",
         "watchers": 48,
-        "forks": 395,
+        "forks": 396,
         "stars": 2779
     },
     {
